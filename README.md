@@ -7,4 +7,3 @@ F´ (F Prime) is a component-driven framework that enables rapid development and
 =======
 # Fprime_UART_RPI_Text
 Using Fprime framework created by NASA to developed the way to read/write message from RPI by UART
->>>>>>> 897878f7f08a34de9bf10448c5b6ac7d6d89d691
